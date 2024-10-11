@@ -1,0 +1,13 @@
+services:
+  db:
+    image: postgres:14.6-alpine
+    container_name: default-db
+    environment:
+      POSTGRES_DB: ${DB_NAME:-postgres}
+      POSTGRES_USER: ${DB_USER:-root}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-root}
+    ports:
+      - '${DB_PORT:-1432}:5432'
+    restart: always
+    volumes:
+      - ~/.PostgreSQL:/var/lib/postgresql/data
