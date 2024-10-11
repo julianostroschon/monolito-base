@@ -1,6 +1,4 @@
-# Projeto básico com VueJS e Quasar
-
-Este projeto foi criado com o objetivo de demonstrar como usar o Quasar Framework com VueJS.
+# Aplicação de servidor
 
 ## Pré-requisitos
 
@@ -18,7 +16,7 @@ git clone https://github.com/julianostroschon/monolito-base.git
 2. Entre na pasta do projeto
 
 ```bash
-cd monolito-base/client
+cd monolito-base/server
 ```
 
 3. Instale as dependências
@@ -45,4 +43,4 @@ Você pode contribuir com o projeto, seja reportando erros, sugerindo melhorias 
 
 Lembre-se de seguir o padrão de commits e de nomes de branch descritivos. Isso ajuda a manter o histórico do projeto organizado e fácil de entender.
 
-Espero que este projeto seja útil para você! Se você tiver alguma dúvida ou precisar de ajuda, não hesite em perguntar. Boa sorte!
+Espero que este projeto seja útil para você! Se você tiver alguma dúvida ou precisar de ajuda, não hesite em perguntar. Boa sorte!  
