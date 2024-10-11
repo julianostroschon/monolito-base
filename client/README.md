@@ -1,5 +1,48 @@
-# Vue 3 + Vite
+# Projeto básico com VueJS e Quasar
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este projeto foi criado com o objetivo de demonstrar como usar o Quasar Framework com VueJS.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Pré-requisitos
+
+- [Node.js](https://nodejs.org/) (versão 20 ou superior)
+- [NPM](https://www.npmjs.com/) (versão 8 ou superior)
+
+## Instalação
+
+1. Clone o repositório
+
+```bash
+git clone https://github.com/julianostroschon/processo-seletivo.git
+```
+
+2. Entre na pasta do projeto
+
+```bash
+cd processo-seletivo/client
+```
+
+3. Instale as dependências
+
+```bash
+npm install
+```
+
+4. Inicie o projeto
+
+```bash
+npm run dev
+```
+
+## Contribuição
+
+Você pode contribuir com o projeto, seja reportando erros, sugerindo melhorias ou até mesmo com a implementação de novas funcionalidades. Para isso, siga os passos abaixo:
+
+1. Fork o repositório
+2. Crie uma branch com um nome descritivo para sua alteração
+3. Faça suas alterações e teste suas alterações
+4. Commit suas alterações com uma mensagem de commit descritiva
+5. Crie um pull request para o repositório original
+
+Lembre-se de seguir o padrão de commits e de nomes de branch descritivos. Isso ajuda a manter o histórico do projeto organizado e fácil de entender.
+
+Espero que este projeto seja útil para você! Se você tiver alguma dúvida ou precisar de ajuda, não hesite em perguntar. Boa sorte!
